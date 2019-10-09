@@ -92,6 +92,3 @@ def main(query):
     return xgwords
 
 
-if __name__ == "__main__":
-    c = main('风控口子')
-    print(c)
